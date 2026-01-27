@@ -80,3 +80,8 @@ MATLAB-only clustering fallback produced variable-shaped cluster index vectors; 
 ### Fix in v7
 - Fixed MATLAB syntax error in CTCM (`'KR'(idx)` is invalid). Now uses a variable `opts='KR'` before indexing.
 - Validation split for temperature vs conformal is now stratified to reduce 'Too few positives' warnings.
+
+## Reference
+This code accompanies the paper:
+**Intelligent in silico prioritization of antimalarial peptide candidates under explicit physicochemical windows via de novo CTCM-Neo generation and conformal-gated calibrated classification**
+Muhammad Aamir, Khosro Rezaee* and Maryam Saberi Anari
