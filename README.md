@@ -85,3 +85,8 @@ MATLAB-only clustering fallback produced variable-shaped cluster index vectors; 
 This code accompanies the paper:
 **Intelligent in silico prioritization of antimalarial peptide candidates under explicit physicochemical windows via de novo CTCM-Neo generation and conformal-gated calibrated classification**
 Muhammad Aamir, Khosro Rezaee* and Maryam Saberi Anari
+
+## Reference
+This code accompanies the paper:
+**Intelligent in silico prioritization of antimalarial peptide candidates under explicit physicochemical windows via de novo CTCM-Neo generation and conformal-gated calibrated classification**
+Muhammad Aamir, Khosro Rezaee* and Maryam Saberi Anari
