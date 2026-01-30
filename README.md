@@ -1,4 +1,4 @@
-# CGDP / CTCM‑Neo + ConformaX‑PEP (MATLAB) — paper-style simulation on your core dataset
+# CGDP / CTCM‑Neo + ConformaX‑PEP (MATLAB) — paper-style simulation
 
 This repo reproduces the *simulation pipeline* described in the paper draft you shared:
 - Core data: 52 positives (P) + 200 unlabeled/background (U).
